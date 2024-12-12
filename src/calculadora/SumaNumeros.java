@@ -1,3 +1,5 @@
+//Programa que suma digitos
+//Cambio realizado desde rama feature-suma
 package calculadora;
 import java.util.Scanner;
 public class SumaNumeros {
